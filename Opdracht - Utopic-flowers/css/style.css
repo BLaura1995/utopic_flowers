@@ -100,17 +100,17 @@ nav {
     flex: 0;
 }
 
-.top {
-    background-color: pink;
-}
+
+/* vanaf hier begint t raar te doen ... hahaha */
+
+.top {}
 
 .four-columns {
-    display: flex;
-    flex: 25%;
-    height: 200px;
-    justify-content: space-around;
     background-color: aqua;
-    padding: 10px;
+    flex: 25%;
+    justify-content: space-between;
+    height: 200px;
+    padding: 20px;
 }
 
 .contact p {
